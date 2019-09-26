@@ -1,0 +1,38 @@
+distribution
+layout_version 1.0
+data_model_revision 2.40
+uuid 46af7fee-156b-4596-8ddc-bb04fc8fb2d8
+mod_time 1569482953
+create_time 1569482953
+path_max 255
+name_max 100
+media 
+sequence_number 1
+tag helloworld
+data_model_revision 2.40
+instance_id 1
+control_directory helloworld
+revision 7.66.0
+title "helloworld"
+mod_time 1569482953
+create_time 1569482953
+architecture HP-UX_B.11.*
+machine_type *
+os_name HP-UX
+os_release ?.11.??
+os_version *
+directory /usr/bin
+all_filesets helloworld-RUN 
+is_locatable true
+subproduct
+tag Runtime
+contents helloworld-RUN
+fileset
+tag helloworld-RUN
+data_model_revision 2.40
+instance_id 1
+control_directory helloworld-RUN
+size 12318
+mod_time 1569482953
+create_time 1569482953
+state available

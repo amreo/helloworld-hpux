@@ -1,0 +1,21 @@
+control_file
+path INDEX
+size 169
+mode 0444
+mtime 1568653167
+tag INDEX
+control_file
+path INFO
+size 239
+mode 0444
+mtime 1568653167
+tag INFO
+file
+path /usr/bin/helloworld
+type f
+size 30
+cksum 1568653167
+mode 0755
+uid 0
+gid 3
+mtime 1568653167
